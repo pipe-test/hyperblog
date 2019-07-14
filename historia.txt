@@ -3,3 +3,5 @@ Esta es la historia de Andres Moreno.
 Andres Moreno tiene 30 años y nacio en Colombia, viviendo en todo el mundo. 
 
 Hoy esta estudiando Git y GitHub con Fredy Vega de Platzi. 
+
+Hablaremos de su vida.
