@@ -2,6 +2,8 @@ Esta es la historia de Andres Moreno.
 
 Andres Moreno tiene 30 años y nacio en Colombia, viviendo en todo el mundo. 
 
+Pipe Test tiene 50 años y nació en internet
+
 Hoy esta estudiando Git y GitHub con Fredy Vega de Platzi. 
 
 Hablaremos de su vida y obra maestra.
