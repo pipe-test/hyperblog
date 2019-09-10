@@ -2,7 +2,7 @@ Esta es la historia de Andres Moreno.
 
 Andres Moreno tiene 30 años y nacio en Colombia, viviendo en todo el mundo. 
 
-Pipe Test tiene 50 años y nació en internet
+Pipe Test es una persona que contribuye a este proyecto open source.
 
 Hoy esta estudiando Git y GitHub con Fredy Vega de Platzi. 
 
